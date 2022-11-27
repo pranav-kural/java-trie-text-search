@@ -1,5 +1,5 @@
 # Tries Search
-utility program to do pattern or exact match search through catagorical data.
+Utility program to do pattern or exact match search through catagorical data.
 
 ## Usage
 
