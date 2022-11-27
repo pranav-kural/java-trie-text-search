@@ -1,5 +1,5 @@
 # Tries Search
-Utility program to do pattern or exact match search through catagorical data.
+Utility program to do pattern or exact match search through catagorical data in less than linear time complexity.
 
 ## Usage
 
@@ -42,6 +42,6 @@ When you perform a search, a list of student ids will be returned; these will th
           }
           // return result
           return studentsWithMatch;
+        }
     }
-}
 
